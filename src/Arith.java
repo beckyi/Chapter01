@@ -30,8 +30,8 @@ public class Arith {
 		System.out.println( 10/(double)3);	//3.3333333333333335
 		System.out.println((double)(10/3));	//3.0
 		
-		System.out.println(-7%3);	//-1
-		System.out.println(7%-3);	//1
+		System.out.println(-7%3);	//-1 (제수:-2)
+		System.out.println(7%-3);	//1 (제수:-2)
 	}
 
 }
